@@ -32,13 +32,6 @@
 ### 📊 GitHub stats
 
 <p>
-  <img src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="Contribution graph" />
-</p>
-<p>
-  <img height="180" src="./profile-summary-card-output/transparent/3-stats.svg" alt="GitHub stats" />
-  <img height="180" src="./profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Top languages" />
-</p>
-<p>
   <img height="180" src="./profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Most commit language" />
   <img height="180" src="https://streak-stats.demolab.com?user=Rghaf&hide_border=true&theme=transparent" alt="GitHub streak" />
 </p>
