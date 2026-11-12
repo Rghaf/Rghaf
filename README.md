@@ -29,9 +29,8 @@
 | **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux" alt="DevOps" /><br/><img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white" alt="Railway" /> <img src="https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=white" alt="CI/CD" /> |
 | **Game Dev** | <img src="https://skillicons.dev/icons?i=godot" alt="Godot" /> |
 
-### 📊 GitHub stats
+### 📈 GitHub streak
 
 <p>
-  <img height="180" src="./profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Most commit language" />
-  <img height="180" src="https://streak-stats.demolab.com?user=Rghaf&hide_border=true&theme=transparent" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Rghaf&hide_border=true&theme=transparent" alt="GitHub streak" />
 </p>
